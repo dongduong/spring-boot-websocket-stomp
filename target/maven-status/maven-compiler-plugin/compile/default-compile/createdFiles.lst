@@ -1,0 +1,5 @@
+com/dongduong/websocketsstompnotifications/config/SecurityConfig.class
+com/dongduong/websocketsstompnotifications/WebsocketsStompNotificationsApplication.class
+com/dongduong/websocketsstompnotifications/config/WebSocketConfig.class
+com/dongduong/websocketsstompnotifications/domain/Message.class
+com/dongduong/websocketsstompnotifications/controller/MessageController.class
